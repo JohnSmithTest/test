@@ -1,3 +1,3 @@
 function trick(){
-document.getElementById("trick").src = "motyl.gif";
+document.getElementById("trick").src = "cannon.gif";
 }
